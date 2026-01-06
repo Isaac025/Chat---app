@@ -1,0 +1,3 @@
+** onclick{() => window.open(url)}
+selectedUser(user)
+w-[min(30vw,250px)]
